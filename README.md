@@ -1,4 +1,4 @@
-<p align="center" color="6622cc">
+<p align="center" color="purple">
   <h1 align="center">Hello there 👋 nice to meet you <h1>
 </p>
 
