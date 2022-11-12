@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6622cc&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karla&size=30&duration=5000&pause=800&color=6622cc&background=E4E4E400&center=true&width=435&lines=Hello+There;I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karla&size=30&duration=5000&pause=800&color=6622cc&background=E4E4E400&center=true&vCenter=true&width=435&lines=Hello+There;I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Bondok6" align="right"/><img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right"> 
 
