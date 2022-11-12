@@ -1,5 +1,5 @@
-<p align="center" color="purple">
-  <h1 align="center">Hello there 👋 nice to meet you <h1>
+<p align="center">
+  <h1 align="center" color="red">Hello there 👋 nice to meet you <h1>
 </p>
 
  <div align="center" width="50" margin-bottom="10">
