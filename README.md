@@ -9,18 +9,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+Amanuel's+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=amexabee&color=dc143c" align="right"/>
-<!--     <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right">  -->
-
-
-**🔵 I'm a Software Engineer**   
-
-**🟠 Ask me about Front-end track**
-
-**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/), <a href="mailto:kyrilloshany99@gmail.com" target="_blanck"> Gmail </a>**
-
-**🟠 Check [my resume](https://docs.google.com/document/d/1rkT_79Hb5qYM3IEzFmh1VZJxqEaDohz1gZBjnTkI1Jw/edit?usp=sharing), [my portfolio](https://kyrillos-portfolio.vercel.app/)**
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
