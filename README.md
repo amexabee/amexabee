@@ -15,7 +15,7 @@
     
 ### How to reach me
 [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://twitter.com/i_amanuel)
-   
+   [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
     
 
 <div> 
