@@ -15,10 +15,7 @@
     
 ### How to reach me
 [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://twitter.com/i_amanuel)
-   [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
     
 
-<div> 
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical"/> &nbsp;
-  <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Bondok6&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
+![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000)
