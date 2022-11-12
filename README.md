@@ -18,4 +18,5 @@
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
     
 
-![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000)
+<!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amexabee&layout=compact)](https://github.com/amexabee/github-readme-stats)
