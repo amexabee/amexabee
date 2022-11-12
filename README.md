@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,fontawesome,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
 
 <br>
 
