@@ -9,7 +9,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+Amanuel's+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Frameworks
 
 [![Languages and Frameworks](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
 
