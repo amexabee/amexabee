@@ -1,4 +1,7 @@
-# Hello there, nice to meet you
+<p align="center" color="6622cc">
+  <h1 align="center">Hello there 👋 nice to meet you <h1>
+</p>
+
  <div align="center" width="50" margin-bottom="10">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </div>
