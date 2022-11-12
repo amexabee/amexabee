@@ -13,7 +13,7 @@
 
 [![Languages and Frameworks](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
 [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-    [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+    
 ### How to reach me
    https://twitter.com/i_amanuel
     
