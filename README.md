@@ -2,8 +2,10 @@
  <div align="center" width="50" margin-bottom="10">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </div>
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Welcome+to+Amanuel's+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+ <p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Welcome+to+Amanuel's+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=Bondok6" align="right"/><img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right"> 
 
 
