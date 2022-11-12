@@ -15,7 +15,7 @@
 
     [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 ### How to reach me
-    <a href="https://twitter.com/i_amanuel">HI</a>
+    <p><a href="https://twitter.com/i_amanuel">HI</a><p>
     
 
 <div> 
