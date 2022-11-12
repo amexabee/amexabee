@@ -13,7 +13,9 @@
 
 [![Languages and Frameworks](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
 
-<br>
+### How to reach me
+    <a href"https://twitter.com/i_amanuel">[![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)</a>
+    
 
 <div> 
   <img width="380" src="https://github-readme-stats.vercel.app/api?username=Bondok6&show_icons=true&theme=radical"/> &nbsp;
