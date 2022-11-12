@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6622cc&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
+# Hello There
  <div align="center" width="50" margin-bottom="10">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </div>
