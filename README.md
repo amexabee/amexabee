@@ -1,4 +1,4 @@
-# Hello There
+# Hello there, nice to meet you
  <div align="center" width="50" margin-bottom="10">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </div>
