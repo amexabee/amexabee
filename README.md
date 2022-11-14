@@ -9,9 +9,9 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+Amanuel's+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-##  Languages and Frameworks
+##  Languages and Tools
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=javascript,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
     
 ### How to reach me
 [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://twitter.com/i_amanuel)
