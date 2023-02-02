@@ -11,7 +11,7 @@
 
 ##  Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=javascript,react,redux,ruby,rails,postgres,html,css,bootstrap,webpack,regex,figma,vscode,idea,java,cpp,git,github)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=javascript,react,redux,ruby,rails,postgres,html,css,java,cpp,git,github,bootstrap,webpack,regex,figma,vscode,idea)](https://skillicons.dev)
     
 ### How to reach me
 [![Languages and Frameworks](https://skillicons.dev/icons?i=twitter)](https://twitter.com/i_amanuel)
