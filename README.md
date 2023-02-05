@@ -26,4 +26,3 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amexabee&theme=dark&layout=compact)](https://github.com/amexabee/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=amexabee&theme=dark)
