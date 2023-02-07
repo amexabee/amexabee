@@ -3,7 +3,7 @@
 </p>
 
  <div align="center" width="50">
-  <img align="center" alt="GIF" src="./mygif..gif" />
+  <img align="center" alt="GIF" src="./mygif.gif" />
 </div>
  <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
