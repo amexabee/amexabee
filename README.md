@@ -14,7 +14,7 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=javascript,react,redux,html,css,ruby,rails,postgres,java,cpp,git,github,jest,bootstrap,tailwind,webpack,vscode,idea)](https://skillicons.dev)
 
 
-  <h1>Connect with me </h1>    
+  Connect with me     
   [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
 <!-- </div>    -->
 
