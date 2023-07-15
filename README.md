@@ -15,7 +15,7 @@
 
 
   <h1>Connect with me </h1>    
-  <span>[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)</span>
+  [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
 <!-- </div>    -->
 
 <!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
