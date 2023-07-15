@@ -12,9 +12,9 @@
 ##  Languages and Tools
 
 [![Languages and Tools](https://skillicons.dev/icons?i=javascript,react,redux,html,css,ruby,rails,postgres,java,cpp,git,github,jest,bootstrap,tailwind,webpack,vscode,idea)](https://skillicons.dev)
-    
-# Connect with me ## [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)
-    
+
+<span>Connect me </span>    
+<span>[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/)</span>   
 
 <!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
 
