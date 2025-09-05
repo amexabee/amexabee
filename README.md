@@ -11,7 +11,7 @@
 
 ##  Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=javascript,react,redux,html,css,ruby,rails,matlab,postgres,java,c,cpp,git,github,jest,bootstrap,tailwind,webpack,vscode,idea)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=javascript,ts,nextjs,react,redux,html,css,java,spring,ruby,rails,matlab,postgres,c,cpp,git,github,jest,bootstrap,tailwind,webpack,vscode,idea)](https://skillicons.dev)
 
 
 ### Connect with me     
