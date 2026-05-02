@@ -13,10 +13,6 @@
 
 [![Languages and Tools](https://skillicons.dev/icons?i=javascript,ts,nextjs,react,redux,html,css,java,spring,ruby,rails,matlab,postgres,c,cpp,git,github,jest,bootstrap,tailwind,webpack,vscode,idea)](https://skillicons.dev)
 
-
-### Connect with me     
-[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/) 
-
 <!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=amexabee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
